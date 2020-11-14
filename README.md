@@ -1,4 +1,4 @@
-<h1> Hi, I'm Yanrong! <img src="https://media.giphy.com/media/6NIC5qDsDC5uE/giphy.gif" width="50"></h1>
+<h1> Hi, I'm Danny! <img src="https://media.giphy.com/media/6NIC5qDsDC5uE/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="230">
 <p><em>Fullstack Developer / Software Engineer <br/>Graduate from <a href="https://lambdaschool.com/">Lambda School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"/><br/></em></p>
 
