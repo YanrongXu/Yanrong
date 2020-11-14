@@ -16,7 +16,7 @@
 
 *****
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-![Yanrong Xu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanrongxu&hide=["stars"]&show_icons=true)
+![Danny Xu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanrongxu&hide=["stars"]&show_icons=true)
 *****
 <br/>
 <p>Visit my profile and give a ⭐️ if you like it</p> 
