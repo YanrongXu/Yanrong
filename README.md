@@ -10,7 +10,7 @@
 + 😄 Pronouns: He/Him but i'll answer to just about anything
 + 🔭 I’m currently working on... 
   - an Chrome extension called <a href="https://master.d3u1c7xm8qrvaq.amplifyapp.com/">Linkedin Helper</a> (React and Babel)
-  - look out for a project called "Helping the Needed" coming soon (ReactNative front end and GraphQL/AppSync/Dynamo w/ Lambda on the backend)
+  - look out for a project called "Github Trending" coming soon (ReactNative)
 + 🌱 I’m currently learning AWS and Data Structure and Algorithms.
 + 💬 Ask me about anything! I want to help
 
