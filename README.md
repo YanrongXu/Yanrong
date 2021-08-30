@@ -1,6 +1,6 @@
 <h1> Hi, I'm Danny! <img src="https://media.giphy.com/media/6NIC5qDsDC5uE/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="230">
-<p><em>Fullstack Developer / Software Engineer <br/>Graduate from <a href="https://lambdaschool.com/">Lambda School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"/><br/></em></p>
+<p><em>Fullstack Developer / Software Engineer</p>
 
 [![Twitter: 8xuyanrong](https://img.shields.io/twitter/follow/8xuyanrong?style=social)](https://twitter.com/8xuyanrong) <br/>
 [![Linkedin: yanrong-xu](https://img.shields.io/badge/-yanrongXu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yanrong-xu/)](https://www.linkedin.com/in/yanrong-xu/) <br/>
